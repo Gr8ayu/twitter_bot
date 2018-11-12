@@ -1,0 +1,550 @@
+pybot restarted !
+pybot restarted !
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 1 new mentions
+message sent for 1061551108689018880
+retrieved 1 new mentions
+pybot restarted !
+retrieved 1 new mentions
+message sent for 1061551349274308608
+pybot restarted !
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 1 new mentions
+message sent for 1061555230897106945
+retrieved 1 new mentions
+pybot restarted !
+retrieved 0 new mentions
+retrieved 1 new mentions
+message sent for 1061559143343915009
+retrieved 2 new mentions
+pybot restarted !
+retrieved 1 new mentions
+message sent for 1061559285400780801
+retrieved 1 new mentions
+pybot restarted !
+retrieved 1 new mentions
+message sent for 1061565509252968450
+retrieved 2 new mentions
+pybot restarted !
+retrieved 1 new mentions
+message sent for 1061565819300134913
+retrieved 2 new mentions
+pybot restarted !
+retrieved 1 new mentions
+message sent for 1061566106668658690
+retrieved 2 new mentions
+pybot restarted !
+retrieved 1 new mentions
+message sent for 1061566570990788608
+retrieved 2 new mentions
+pybot restarted !
+retrieved 1 new mentions
+message sent for 1061566907113828352
+retrieved 1 new mentions
+retrieved 1 new mentions
+pybot restarted !
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 1 new mentions
+message sent for 1061568841866563591
+retrieved 2 new mentions
+retrieved 2 new mentions
+pybot restarted !
+retrieved 1 new mentions
+message sent for 1061568974922506240
+retrieved 1 new mentions
+retrieved 1 new mentions
+retrieved 1 new mentions
+retrieved 3 new mentions
+message sent for 1061569698179964928
+message sent for 1061569744623419399
+retrieved 3 new mentions
+pybot restarted !
+retrieved 2 new mentions
+pybot restarted !
+retrieved 2 new mentions
+pybot restarted !
+retrieved 13 new mentions
+message sent for 1061551349274308608
+message sent for 1061555230897106945
+pybot restarted !
+retrieved 11 new mentions
+retrieved 11 new mentions
+pybot restarted !
+retrieved 11 new mentions
+pybot restarted !
+retrieved 11 new mentions
+retrieved 11 new mentions
+pybot restarted !
+retrieved 11 new mentions
+pybot restarted !
+retrieved 11 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}]
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}]
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}]
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}]
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}]
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}]
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}]
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}]
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}]
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}]
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}]
+retrieved 11 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}]
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}]
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}]
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}]
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}]
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}]
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}]
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}]
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}]
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}]
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}]
+pybot restarted !
+retrieved 0 new mentions
+retrieved 0 new mentions
+pybot restarted !
+retrieved 0 new mentions
+pybot restarted !
+retrieved 7 new mentions
+pybot restarted !
+retrieved 6 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566570990788608
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566907113828352
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061568841866563591
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061568974922506240
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061569698179964928
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061569744623419399
+retrieved 6 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566570990788608
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566907113828352
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061568841866563591
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061568974922506240
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061569698179964928
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061569744623419399
+retrieved 6 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566570990788608
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566907113828352
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061568841866563591
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061568974922506240
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061569698179964928
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061569744623419399
+retrieved 6 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566570990788608
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566907113828352
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061568841866563591
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061568974922506240
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061569698179964928
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061569744623419399
+retrieved 6 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566570990788608
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566907113828352
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061568841866563591
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061568974922506240
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061569698179964928
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061569744623419399
+retrieved 6 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566570990788608
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566907113828352
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061568841866563591
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061568974922506240
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061569698179964928
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061569744623419399
+retrieved 6 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566570990788608
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566907113828352
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061568841866563591
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061568974922506240
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061569698179964928
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061569744623419399
+retrieved 6 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566570990788608
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566907113828352
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061568841866563591
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061568974922506240
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061569698179964928
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061569744623419399
+retrieved 6 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566570990788608
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566907113828352
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061568841866563591
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061568974922506240
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061569698179964928
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061569744623419399
+retrieved 6 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566570990788608
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566907113828352
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061568841866563591
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061568974922506240
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061569698179964928
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061569744623419399
+retrieved 6 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566570990788608
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566907113828352
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061568841866563591
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061568974922506240
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061569698179964928
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061569744623419399
+retrieved 6 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566570990788608
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566907113828352
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061568841866563591
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061568974922506240
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061569698179964928
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061569744623419399
+retrieved 6 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566570990788608
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566907113828352
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061568841866563591
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061568974922506240
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061569698179964928
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061569744623419399
+retrieved 6 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566570990788608
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566907113828352
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061568841866563591
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061568974922506240
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061569698179964928
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061569744623419399
+retrieved 6 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566570990788608
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566907113828352
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061568841866563591
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061568974922506240
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061569698179964928
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061569744623419399
+retrieved 6 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566570990788608
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566907113828352
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061568841866563591
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061568974922506240
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061569698179964928
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061569744623419399
+retrieved 6 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566570990788608
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566907113828352
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061568841866563591
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061568974922506240
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061569698179964928
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061569744623419399
+pybot restarted !
+retrieved 0 new mentions
+retrieved 0 new mentions
+pybot restarted !
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+pybot restarted !
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 1 new mentions
+pybot restarted !
+retrieved 1 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061889868102434816
+retrieved 1 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061889868102434816
+pybot restarted !
+retrieved 1 new mentions
+message sent for 1061890772004290561
+retrieved 1 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061890772004290561
+retrieved 1 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061890772004290561
+pybot restarted !
+retrieved 10 new mentions
+message sent for 1061565819300134913
+message sent for 1061566106668658690
+message sent for 1061566570990788608
+message sent for 1061566907113828352
+message sent for 1061568841866563591
+message sent for 1061568974922506240
+message sent for 1061569698179964928
+message sent for 1061569744623419399
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061889868102434816
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061890772004290561
+retrieved 10 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061565819300134913
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566106668658690
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566570990788608
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566907113828352
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061568841866563591
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061568974922506240
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061569698179964928
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061569744623419399
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061889868102434816
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061890772004290561
+retrieved 10 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061565819300134913
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566106668658690
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566570990788608
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566907113828352
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061568841866563591
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061568974922506240
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061569698179964928
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061569744623419399
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061889868102434816
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061890772004290561
+retrieved 10 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061565819300134913
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566106668658690
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566570990788608
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566907113828352
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061568841866563591
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061568974922506240
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061569698179964928
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061569744623419399
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061889868102434816
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061890772004290561
+retrieved 10 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061565819300134913
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566106668658690
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566570990788608
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566907113828352
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061568841866563591
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061568974922506240
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061569698179964928
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061569744623419399
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061889868102434816
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061890772004290561
+retrieved 10 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061565819300134913
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566106668658690
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566570990788608
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061566907113828352
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061568841866563591
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061568974922506240
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061569698179964928
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061569744623419399
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061889868102434816
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061890772004290561
+pybot restarted !
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 1 new mentions
+message sent for 1061895373721980928
+retrieved 1 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061895373721980928
+retrieved 1 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061895373721980928
+retrieved 1 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061895373721980928
+retrieved 1 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061895373721980928
+retrieved 1 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061895373721980928
+retrieved 1 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061895373721980928
+retrieved 1 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061895373721980928
+retrieved 1 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061895373721980928
+retrieved 1 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061895373721980928
+retrieved 1 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061895373721980928
+retrieved 1 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061895373721980928
+retrieved 1 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061895373721980928
+retrieved 1 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061895373721980928
+retrieved 1 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061895373721980928
+retrieved 1 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061895373721980928
+retrieved 1 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061895373721980928
+retrieved 1 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061895373721980928
+retrieved 1 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061895373721980928
+retrieved 1 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061895373721980928
+retrieved 2 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061895373721980928
+message sent for 1061898097872142337
+retrieved 2 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061895373721980928
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061898097872142337
+retrieved 2 new mentions
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061895373721980928
+handled TweepError, [{'code': 187, 'message': 'Status is a duplicate.'}] for 1061898097872142337
+pybot restarted !
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 1 new mentions
+message sent for 1061899518625468416
+retrieved 0 new mentions
+retrieved 0 new mentions
+pybot restarted !
+retrieved 0 new mentions
+pybot restarted !
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 1 new mentions
+message sent for 1061953080286109696
+pybot restarted !
+retrieved 1 new mentions
+pybot restarted !
+retrieved 1 new mentions
+message sent for 1061954020594446336
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 1 new mentions
+message sent for 1061955590929281026
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+retrieved 0 new mentions
+pybot restarted !
+pybot restarted !
+2018-11-12 19:24:49 ISTretrieved 0 new mentions
+pybot restarted !
+2018-11-12 19:25:14 IST retrieved 0 new mentions
+pybot restarted !
+2018-11-12 19:26:21 IST retrieved 0 new mentions
+2018-11-12 19:26:21 IST retrieved 0 new mentions
+pybot restarted !
+2018-11-12 19:29:29 IST retrieved 0 new mentions
+2018-11-12 19:30:00 IST retrieved 0 new mentions
+2018-11-12 19:30:31 IST retrieved 0 new mentions
+2018-11-12 19:31:02 IST retrieved 0 new mentions
+2018-11-12 19:31:33 IST retrieved 0 new mentions
+2018-11-12 19:32:04 IST retrieved 0 new mentions
+2018-11-12 19:32:35 IST retrieved 0 new mentions
+2018-11-12 19:33:06 IST retrieved 0 new mentions
+2018-11-12 19:33:37 IST retrieved 0 new mentions
+2018-11-12 19:34:08 IST retrieved 0 new mentions
+2018-11-12 19:34:39 IST retrieved 0 new mentions
+2018-11-12 19:35:10 IST retrieved 0 new mentions
+2018-11-12 19:35:41 IST retrieved 0 new mentions
+2018-11-12 19:36:12 IST retrieved 0 new mentions
+2018-11-12 19:36:43 IST retrieved 0 new mentions
+2018-11-12 19:37:15 IST retrieved 0 new mentions
+2018-11-12 19:37:46 IST retrieved 0 new mentions
+pybot restarted !
+pybot restarted !
+2018-11-12 20:25:39 IST retrieved 1 new mentions
+message sent for 1061995143052570625
+2018-11-12 20:26:12 IST retrieved 0 new mentions
+2018-11-12 20:26:43 IST retrieved 0 new mentions
+2018-11-12 20:27:14 IST retrieved 0 new mentions
+2018-11-12 20:27:45 IST retrieved 1 new mentions
+message sent for 1061996365629308928
+2018-11-12 20:28:18 IST retrieved 0 new mentions
+2018-11-12 20:28:49 IST retrieved 0 new mentions
+2018-11-12 20:29:20 IST retrieved 0 new mentions
+2018-11-12 20:29:51 IST retrieved 0 new mentions
