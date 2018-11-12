@@ -17,10 +17,10 @@ print("This is chatbot")
 log("pybot restarted !")
 
 # initializing credentials
-CONSUMER_KEY = 's9Oickg7v50mBGePI6FFd07es'
-CONSUMER_SECRET = 'ad6ijS9p0MgcPUGncbVmJyeirW5A9g5sIplBcmC1mfg6ce3a29'
-ACCESS_KEY = '1061286379458621441-0pk8k0iuSlY6SKdjS2YSfsE4T1I34I'
-ACCESS_SECRET = 'QclCsy5RtGxtuqo108DbBkUoJ5HpEdLh3EGgdZcOO8lYV'
+CONSUMER_KEY = '*******************'
+CONSUMER_SECRET = '*******************'
+ACCESS_KEY = '*******************'
+ACCESS_SECRET = '*******************'
 
 # authenticating user
 auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
